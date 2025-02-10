@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Assembly Language Programming**
 
-- 👨‍💻 All of my projects are available at [https://portfolio.tinlikesub.pro/](https://portfolio.tinlikesub.pro/)
+- 👨‍💻 All of my projects are available at [https://portfolio.tinlikesub.pro/](http://portfolio.tinlikesub.pro/)
 
 - 📝 I regularly write articles on [https://www.facebook.com/Wall.Bat.Baiz/](https://www.facebook.com/Wall.Bat.Baiz/)
 
