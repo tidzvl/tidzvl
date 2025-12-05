@@ -5,10 +5,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tidzvl&show_icons=true&locale=en" alt="tidzvl" /></p>
 
-- 🔭 A research project that I further developed [Market Data Analytics](http://dashboard.fpsshop.pro/)
-
-- 👯 Projects I have collaborate [FPS Shop - B2C WebApp](http://fpsshop.pro/home/)
-
 - 🤝 My Full-stack project [Professional social media seeding solutions - TinLikeSub](https://tinlikesub.pro/)
 
 - 🌱 I’m currently learning **Assembly Language Programming**
