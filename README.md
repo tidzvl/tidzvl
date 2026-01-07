@@ -77,5 +77,5 @@ Open to collaborations, partnerships, or just a good tech conversation. Feel fre
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tidzvl&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img src="https://komarev.com/ghpvc/?username=tidzvl&style=flat&color=blue" />
 </p>
