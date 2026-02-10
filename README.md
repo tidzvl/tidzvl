@@ -2,7 +2,7 @@
 
 **Tech Entrepreneur | Building High-Performance Tools for E-commerce & Social Media Growth**
 
-3 years in Python development, recently transitioning into DevOps. Currently focused on building and running 2 tech products of my own.
+4 years in Python development, recently transitioning into DevOps. Currently focused on building and running 2 tech products of my own.
 
 ---
 
